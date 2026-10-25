@@ -5,3 +5,7 @@ Screenshots:
 
 1. ![Activity 1](/screenshots/screenshot1.png "Activity 1")
 2. ![Activity 2](/screenshots/screenshot2.png "Acitivity 2")
+
+## License
+
+[MIT](LICENSE)
